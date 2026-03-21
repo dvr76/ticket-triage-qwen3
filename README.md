@@ -4,7 +4,7 @@ Fine-tuned Qwen3-0.6B for extracting structured maintenance information from ten
 
 ## Training
 
-- **Base model:** Qwen/Qwen3-0.6B (loaded via unsloth/Qwen3-0.6B-unsloth-bnb-4bit)
+- **Base model:** Qwen/Qwen3-0.6B (loaded via unsloth/Qwen3-0.6B)
 - **Method:** QLoRA (r=16, 4-bit NF4 quantization)
 - **Framework:** Unsloth + TRL SFTTrainer
 - **Hardware:** Google Colab T4 (16GB VRAM)
