@@ -1,4 +1,4 @@
-# Fine-Tuning Qwen3 for Structured Property Maintenance Ticket Triaging
+# Fine-Tuned Qwen3 for Structured Property Maintenance Ticket Triaging
 
 Fine-tuned Qwen3-0.6B for extracting structured maintenance information from tenant ticket text.
 
