@@ -1,10 +1,10 @@
 # Fine-Tuned Qwen3 for Structured Property Maintenance Ticket Triaging
 
-Fine-tuned Qwen3-0.6B for extracting structured maintenance information from tenant ticket text.
+Fine-tuned Qwen3-2B for extracting structured maintenance information from tenant ticket text.
 
 ## Training
 
-- **Base model:** Qwen/Qwen3-0.6B (loaded via unsloth/Qwen3-0.6B)
+- **Base model:** Qwen/Qwen3-2B (loaded via unsloth/Qwen3-2B)
 - **Method:** QLoRA
 - **Framework:** Unsloth + TRL SFTTrainer
 - **Hardware:** Google Colab T4 (16GB VRAM)
