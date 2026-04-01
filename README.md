@@ -2,7 +2,7 @@
 
 Fine-tuned Qwen3-2B for extracting structured maintenance information from tenant ticket text.
 
-[![Hugging Face Model](https://img.shields.io/badge/HF-dvr76%2Fticket--triage--qwen3-blue)](https://huggingface.co/dvr76/ticket-triage-qwen3)
+[![Hugging Face](https://img.shields.io/badge/🤗%20HuggingFace-Model-yellow)](https://huggingface.co/dvr76/ticket-triage-qwen3)
 
 ## Training
 
